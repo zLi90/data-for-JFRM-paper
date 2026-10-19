@@ -1,0 +1,58 @@
+bccount :10
+id : inlet1
+bctype : 10
+direction : -1.0 0.0
+polygon : polygon5.input
+hydrograph : hydrograph1.input
+
+id : inlet2
+bctype : 10
+direction : -1.0 0.0
+polygon : polygon6.input
+hydrograph : hydrograph2.input
+
+id : inlet3
+bctype : 10
+direction : 1.0 0.0
+polygon : polygon7.input
+hydrograph : hydrograph3.input
+
+id : inlet4
+bctype : 10
+direction : 1.0 0.0
+polygon : polygon8.input
+hydrograph : hydrograph4.input
+
+id : inlet5
+bctype : 10
+direction : -1.0 0.0
+polygon : polygon9.input
+hydrograph : hydrograph5.input
+
+id : inlet6
+bctype : 10
+direction : -1.0 0.0
+polygon : polygon10.input
+hydrograph : hydrograph6.input
+
+id : inlet7
+bctype : 10
+direction : 1.0 0.0
+polygon : polygon11.input
+hydrograph : hydrograph7.input
+
+id : inlet8
+bctype : 10
+direction : 1.0 0.0
+polygon : polygon12.input
+hydrograph : hydrograph8.input
+
+id : outlet1
+bctype : 5
+direction : -1.0 0.0
+polygon : polygon13.input
+
+id : outlet2
+bctype : 5
+direction : 1.0 0.0
+polygon : polygon14.input
